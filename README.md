@@ -39,6 +39,11 @@ poetry install
 - **Technologies**: Main technologies/libraries used
 - **Key Features**: Core functionality or implemented methods -->
 
+### 📁 [HW1 Filters-Detectors](./FiltersDetectors/FiltersDetectors.ipynb)
+- **Description**: Study of the main tasks and methods of computer vision
+- **Technologies**: Numpy, OpenCV
+- **Key Features**: Corner / Edge detectors, Morphological transformations, Image preprocessing
+
 ### 📁 [HW3 Transfer-learning](./TransferLearning/homework3.ipynb)
 - **Description**: The basic task is to try out different ways of training models (Fine-tune, Transfer-Learning).
 - **Technologies**: PyTorch, torchvision
