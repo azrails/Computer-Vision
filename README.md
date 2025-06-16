@@ -49,7 +49,7 @@ poetry install
 - **Technologies**: PyTorch, torchvision
 - **Key Features**: ResNet-50 / YOLO fine-tune
 
-<!-- ### 📁 [GPT like transformer with Mixture of Experts](./gpt-moe/gpt_moe.ipynb)
-- **Description**: Implementation GPT-like model with Mixture-of-Experts and Grouped Query Attention.
-- **Technologies**: PyTorch
-- **Key Features**: GPT transformer, Mixture of Experts (simple variant), Grouped Query Attention -->
+### 📁 [HW4 GAN-VIT-RESNET](./GanVitResNet/GanVitResNet.ipynb)
+- **Description**: Implementation of GAN network, training from scratch and comparison ResNet and ViT models.
+- **Technologies**: PyTorch, torchvision
+- **Key Features**: Moder GAN baseline, ResNet-18, Vision Transformer
