@@ -44,6 +44,11 @@ poetry install
 - **Technologies**: Numpy, OpenCV
 - **Key Features**: Corner / Edge detectors, Morphological transformations, Image preprocessing
 
+### 📁 [HW2 Classic ML](./ClassicML/ClassicML.ipynb)
+- **Description**: Applying and comparision effectivity and speed of classic ML algorithm (SVM) with simple Fully Connected Network.
+- **Technologies**: PyTorch, sklearn
+- **Key Features**: SVM, NN
+
 ### 📁 [HW3 Transfer-learning](./TransferLearning/TransferLearning.ipynb)
 - **Description**: The basic task is to try out different ways of training models (Fine-tune, Transfer-Learning).
 - **Technologies**: PyTorch, torchvision
