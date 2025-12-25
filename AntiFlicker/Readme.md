@@ -28,10 +28,7 @@ python src/main.py \
 
 
 ### Анализ
-<video width="640" height="480" controls>
-  <source src="data/unstable.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео.
-</video>
+![av1](data/unstable.gif)
 
 
 ![ex1](plots/unstable.png)
@@ -39,10 +36,7 @@ python src/main.py \
 Как видно пока человек двигается линейно маски неплохо обрабатываются моделью сегментации, однако в момент прыжка маска резко теряется и сглаживание не позволяет восстановить истиное движение. Однако суммарно прирост +31.94% IoU.
 
 
-<video width="640" height="480" controls>
-  <source src="data/stable.mp4" type="video/mp4">
-  Ваш браузер не поддерживает видео.
-</video>
+![av2](data/stable.gif)
 
 
 ![ex2](plots/stable.png)
